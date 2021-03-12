@@ -1,0 +1,10 @@
+M:\Operaciones Funciones Varias (Continuacion)\EstructuraDatos\Ventas VB\bin\Debug\Ventas VB.exe.config
+M:\Operaciones Funciones Varias (Continuacion)\EstructuraDatos\Ventas VB\bin\Debug\Ventas VB.exe
+M:\Operaciones Funciones Varias (Continuacion)\EstructuraDatos\Ventas VB\bin\Debug\Ventas VB.pdb
+M:\Operaciones Funciones Varias (Continuacion)\EstructuraDatos\Ventas VB\bin\Debug\Ventas VB.xml
+M:\Operaciones Funciones Varias (Continuacion)\EstructuraDatos\Ventas VB\obj\Debug\Ventas VB.vbprojResolveAssemblyReference.cache
+M:\Operaciones Funciones Varias (Continuacion)\EstructuraDatos\Ventas VB\obj\Debug\Ventas_VB.Resources.resources
+M:\Operaciones Funciones Varias (Continuacion)\EstructuraDatos\Ventas VB\obj\Debug\Ventas VB.vbproj.GenerateResource.Cache
+M:\Operaciones Funciones Varias (Continuacion)\EstructuraDatos\Ventas VB\obj\Debug\Ventas VB.exe
+M:\Operaciones Funciones Varias (Continuacion)\EstructuraDatos\Ventas VB\obj\Debug\Ventas VB.xml
+M:\Operaciones Funciones Varias (Continuacion)\EstructuraDatos\Ventas VB\obj\Debug\Ventas VB.pdb
